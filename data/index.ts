@@ -59,7 +59,7 @@ export const projects = [
     des: "Curriculum Vitae Dhawy Musyari Sebuah Perjalanan dan Pengalaman Berharga",
     img: "https://i.imgur.com/KeYbsVO.jpg",
     iconLists: ["/cv.png"],
-    link: "https://drive.google.com/file/d/1X1VduoEotJL58kyG9zq3YEiADrL6mRy7/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1V6aTURn3bqikDFXWQ6J6EcOxsQcltVEu/view",
   },
   {
     id: 3,
